@@ -1229,7 +1229,7 @@ Attention: this operation cannot be undone."</string>
   <string name="menu_key">Menu key</string>
   <string name="menu_new">New APN</string>
   <string name="menu_restore">Reset to default</string>
-  <string name="menu_save">Save</string>
+  <string name="menu_save">Упра</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
   <string name="menu_stats_refresh">Refresh</string>
   <string name="menu_stats_total">Usage totals</string>
@@ -1251,8 +1251,8 @@ Attention: this operation cannot be undone."</string>
   <string name="msd_help_summary">"Problem accessing mobile’s storage device via the computer? Please select your computer’s operating system:"</string>
   <string name="msd_help_title">Help</string>
   <string name="msd_install">Re-install the driver</string>
-  <string name="msd_install_finish">OK</string>
-  <string name="msd_install_next">Next</string>
+  <string name="msd_install_finish">Аван</string>
+  <string name="msd_install_next">Малалла</string>
   <string name="msd_install_retry_linux">"If your computer does not detect MI 2,
 Try the following:
 1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev
@@ -1288,12 +1288,12 @@ please follow the steps to complete installation"</string>
   <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selection</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
-  <string name="next_button_label">Next</string>
-  <string name="next_label">Next</string>
+  <string name="next_button_label">Малалла</string>
+  <string name="next_label">Малалла</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="no">No</string>
+  <string name="no">Çук</string>
   <string name="no_application">Nothing</string>
   <string name="no_applications">No apps.</string>
   <string name="no_device_admins">No available device administrators</string>
@@ -1566,7 +1566,7 @@ please follow the steps to complete installation"</string>
   <string name="quick_launch_no_shortcut">No shortcut</string>
   <string name="quick_launch_shortcut">Search + %1$s</string>
   <string name="quick_launch_summary">Set keyboard shortcuts to launch apps</string>
-  <string name="quick_launch_title">Quick launch</string>
+  <string name="quick_launch_title">Хăвăрт тапрату</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Connected</string>
   <string name="radioInfo_data_connecting">Connecting</string>
@@ -2366,12 +2366,12 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks...</string>
   <string name="wifi_enable">Enable Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Use Wi-Fi network only when internet connection is strong</string>
-  <string name="wifi_error">Error</string>
+  <string name="wifi_error">Йăнăш</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
   <string name="wifi_failed_connect_message">Failed to connect to network</string>
   <string name="wifi_failed_forget_message">Failed to forget network</string>
   <string name="wifi_failed_save_message">Failed to save network</string>
-  <string name="wifi_forget">Forget</string>
+  <string name="wifi_forget">Ман</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">In Airplane mode</string>
@@ -2386,15 +2386,15 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_ip_settings_menu_save">Save</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_connect">Connect to network</string>
-  <string name="wifi_menu_forget">Forget network</string>
-  <string name="wifi_menu_modify">Modify network</string>
+  <string name="wifi_menu_forget">Тетеле ман</string>
+  <string name="wifi_menu_modify">Тетеле тӳрлет</string>
   <string name="wifi_menu_more_options">More options</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_scan">Scan</string>
+  <string name="wifi_menu_scan">Сканла</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
-  <string name="wifi_more">More</string>
+  <string name="wifi_more">Тата</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Not in range</string>
@@ -2429,7 +2429,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Saved</string>
   <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
-  <string name="wifi_save">Save</string>
+  <string name="wifi_save">Упра</string>
   <string name="wifi_secured_first_item">Secured with %1$s</string>
   <string name="wifi_secured_second_item">, secured with %1$s</string>
   <string name="wifi_security">Security</string>
@@ -2458,8 +2458,8 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
   <string name="wifi_settings_title">Wi-Fi Settings</string>
   <string name="wifi_setup_add_network">Add network</string>
-  <string name="wifi_setup_back">Back</string>
-  <string name="wifi_setup_cancel">Cancel</string>
+  <string name="wifi_setup_back">Кайалла</string>
+  <string name="wifi_setup_cancel">Пăрахăçла</string>
   <string name="wifi_setup_connect">Connect</string>
   <string name="wifi_setup_description_connected">Touch </string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
@@ -2551,11 +2551,11 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS Certificate</string>
-  <string name="wifi_wapi_cert_cancel_button">Cancel</string>
+  <string name="wifi_wapi_cert_cancel_button">Пăрахăçла</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
-  <string name="wifi_wapi_cert_install_button">Install</string>
+  <string name="wifi_wapi_cert_install_button">Ларт</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found on SD card, please check and try again</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please install right as certificate</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the as certificate name</string>
@@ -2595,7 +2595,7 @@ Phone setup can require significant network activity."</string>
   <string name="xiaomi_account">Xiaomi account</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit center</string>
-  <string name="yes">OK</string>
+  <string name="yes">Аван</string>
   <string name="zone_auto">Automatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>
   <string name="zone_auto_summaryOn">Use network-provided time zone</string>
