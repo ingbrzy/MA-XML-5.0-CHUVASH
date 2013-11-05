@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_settings">About phone</string>
+  <string name="about_settings">Телефон пирки</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_title">Access control</string>
   <string name="ac_privacy_mode_sum">Input access control password to cancel guarded mode</string>
