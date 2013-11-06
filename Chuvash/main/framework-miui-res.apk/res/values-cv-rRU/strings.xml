@@ -8,8 +8,8 @@
   <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="app_no_notification">no notification</string>
-  <string name="app_notificaiton_on_notificationBar">Notification bar</string>
+  <string name="app_no_notification">пӗлтерӳсӗр</string>
+  <string name="app_notificaiton_on_notificationBar">Пӗлтерӳ хӑми</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Status and notification bar</string>
   <string name="arbor_day">Arbor Day</string>
   <string name="armed_forces_day"/>
@@ -258,7 +258,7 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
-  <string name="days">days</string>
+  <string name="days">кун</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -459,8 +459,8 @@ Try again in %d seconds."</string>
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
-  <string name="today">Today</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="today">Паян</string>
+  <string name="tomorrow">Ыран</string>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day"/>
@@ -487,7 +487,7 @@ Try again in %d seconds."</string>
   <string name="v5_time_picker_label_minute">Min</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
-  <string name="volume_alarm">Alarm</string>
+  <string name="volume_alarm">Вӑраткӑч</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Call</string>
   <string name="volume_icon_description_media">Media</string>
@@ -503,5 +503,5 @@ Try again in %d seconds."</string>
   <string name="yellow_page_sms_send_failed">Failed to send SMS message!</string>
   <string name="yellow_page_sms_sending">Sending…</string>
   <string name="yellow_page_unable_send_sms">Unable to send SMS message!</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yesterday">Ӗнер</string>
 </resources>

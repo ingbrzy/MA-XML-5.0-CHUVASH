@@ -1484,7 +1484,7 @@ please follow the steps to complete installation"</string>
   <string name="personal_data_section_title">Personal data</string>
   <string name="phone_call_noise_suppression">Phone noise supression</string>
   <string name="phone_info_label">Phone info</string>
-  <string name="phone_language">Language</string>
+  <string name="phone_language">Чӗлхе</string>
   <string name="phone_language_summary"/>
   <string name="pico_installed">Installed</string>
   <string name="pico_languages_and_voices">Languages and voices</string>
@@ -1573,7 +1573,7 @@ please follow the steps to complete installation"</string>
   <string name="radioInfo_data_disconnected">Disconnected</string>
   <string name="radioInfo_data_suspended">Suspended</string>
   <string name="radioInfo_display_asu">asu</string>
-  <string name="radioInfo_display_bytes">bytesem</string>
+  <string name="radioInfo_display_bytes">байт</string>
   <string name="radioInfo_display_dbm">dBm</string>
   <string name="radioInfo_display_packets">pkts</string>
   <string name="radioInfo_lac">LAC</string>
@@ -1584,8 +1584,8 @@ please follow the steps to complete installation"</string>
   <string name="radioInfo_phone_idle">Idle</string>
   <string name="radioInfo_phone_offhook">Call in progress</string>
   <string name="radioInfo_phone_ringing">Ringing</string>
-  <string name="radioInfo_roaming_in">Роминг</string>
-  <string name="radioInfo_roaming_not">Not roaming</string>
+  <string name="radioInfo_roaming_in">Роумингра</string>
+  <string name="radioInfo_roaming_not">Роумингра мар</string>
   <string name="radioInfo_service_emergency">Emergency calls only</string>
   <string name="radioInfo_service_in">In service</string>
   <string name="radioInfo_service_off">Radio off</string>
@@ -1985,7 +1985,7 @@ Attempts Remaining :"</string>
   <string name="tether_settings_title_usb">USB tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
-  <string name="tethering_help_button_text">ПУлăшу</string>
+  <string name="tethering_help_button_text">Пулăшу</string>
   <string name="time_picker_title">Вăхăт</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Вăхăт хутлăхĕ</string>
@@ -2001,7 +2001,7 @@ Attempts Remaining :"</string>
   <string name="trust_switch_dialog_msg">"MIUI will not ask you for confirmation of any security and privacy related operations from this app. Trust this App？"</string>
   <string name="trusted_credentials">Trusted credentials</string>
   <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
-  <string name="trusted_credentials_disable_label">Сÿнтер</string>
+  <string name="trusted_credentials_disable_label">Сӳнтер</string>
   <string name="trusted_credentials_enable_confirmation">Enable the system CA certificate?</string>
   <string name="trusted_credentials_enable_label">Пултар</string>
   <string name="trusted_credentials_remove_confirmation">Permanently remove the user CA certificate?</string>
@@ -2378,7 +2378,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_ip_address">IP тĕлĕ</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP ĕнерлевĕ</string>
-  <string name="wifi_ip_settings_invalid_dns">Type a valid DNS adress.</string>
+  <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
   <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
   <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
@@ -2387,7 +2387,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Тетеле ман</string>
-  <string name="wifi_menu_modify">Тетеле тÿрлет</string>
+  <string name="wifi_menu_modify">Тетеле тӳрлет</string>
   <string name="wifi_menu_more_options">More options</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Шыраса тух</string>
