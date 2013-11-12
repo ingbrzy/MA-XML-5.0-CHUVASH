@@ -289,7 +289,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_sugg_apps_gps">Manually control GPS to prevent app from using it</string>
   <string name="battery_sugg_apps_info">Stop or uninstall the app</string>
   <string name="battery_sugg_apps_settings">The app may offer settings to reduce battery use</string>
-  <string name="battery_sugg_bluetooth_basic">"Бльутуспа усă курман чухнĕ ăна сÿнтермелле"</string>
+  <string name="battery_sugg_bluetooth_basic">"Бльутуспа усă курман чухне ăна сÿнтермелле"</string>
   <string name="battery_sugg_bluetooth_headset">Try connecting to a different Bluetooth device</string>
   <string name="battery_sugg_display">Reduce the screen brightness and/or screen timeout</string>
   <string name="battery_sugg_radio">Switch to airplane mode to save power in areas with no cell coverage</string>
@@ -315,7 +315,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_connected_no_headset">Йавăçнă (телефонсăр)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Йавăçнă (телефонсăр йе медийасăр)</string>
   <string name="bluetooth_connecting">Йавăçни…</string>
-  <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
+  <string name="bluetooth_connecting_error_message">"%1$s йавăçма пултарайман."</string>
   <string name="bluetooth_connection_dialog_text">Есĕ \"%1$s\" йавăçасшăн-и?</string>
   <string name="bluetooth_connection_notif_message">\"%1$s\" йавăç тесен тив.</string>
   <string name="bluetooth_connection_permission_request">Бльутуса йавăçасси пирки ыйтса пĕлтерни</string>
@@ -329,8 +329,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_device_context_connect">Йавăç</string>
   <string name="bluetooth_device_context_connect_advanced">Мелсем…</string>
   <string name="bluetooth_device_context_disconnect">Тат</string>
-  <string name="bluetooth_device_context_disconnect_unpair">Тат та уйăр</string>
-  <string name="bluetooth_device_context_pair_connect">Мăшăрла та йавăç</string>
+  <string name="bluetooth_device_context_disconnect_unpair">Тат йе уйăр</string>
+  <string name="bluetooth_device_context_pair_connect">Мăшăрлассипе йавăçасси</string>
   <string name="bluetooth_device_context_unpair">Уйăр</string>
   <string name="bluetooth_device_details">Хатĕр ĕнерлевĕ</string>
   <string name="bluetooth_device_name">Хатĕрĕн йачĕ</string>
