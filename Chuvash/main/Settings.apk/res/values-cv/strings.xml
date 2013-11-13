@@ -267,7 +267,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_info_status_unknown">Паллă мар</string>
   <string name="battery_info_technology_label">Баттарей технологийĕ:</string>
   <string name="battery_info_temperature_label">Баттарейĕн температури:</string>
-  <string name="battery_info_temperature_units">°C</string>
+  <string name="battery_info_temperature_units">° C</string>
   <string name="battery_info_uptime">Time since boot:</string>
   <string name="battery_info_voltage_label">Баттарей вольташĕ:</string>
   <string name="battery_info_voltage_units">mV</string>
@@ -362,7 +362,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_dun_request">DUN пирки ыйтса пĕлтерни</string>
   <string name="bluetooth_empty_list_bluetooth_off">Хатĕрсене курас тесен Бльутуса тапрат.</string>
   <string name="bluetooth_enable">Бльутуса пултар</string>
-  <string name="bluetooth_enable_alphanumeric_pin">PINte сас палли йе урăхла палă пур</string>
+  <string name="bluetooth_enable_alphanumeric_pin">PINte сас палли йе урăхла паллă пур</string>
   <string name="bluetooth_enter_passkey_msg">"To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type the device's required passkey:"</string>
   <string name="bluetooth_enter_passkey_other_device">You may also need to type this passkey on the other device.</string>
   <string name="bluetooth_enter_pin_msg">"To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type the device's required PIN:"</string>
@@ -389,7 +389,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_mas_request">Message Access request</string>
   <string name="bluetooth_menu_advanced">Анлă</string>
   <string name="bluetooth_name_not_set">No name set, using account name</string>
-  <string name="bluetooth_no_devices_found">Çумра Бльутуслă хатер тупăнман.</string>
+  <string name="bluetooth_no_devices_found">Çумра Бльутуслă хатӗр тупăнман.</string>
   <string name="bluetooth_not_discoverable">Make device discoverable</string>
   <string name="bluetooth_not_visible_to_other_devices">Ытти Бльутуслă хатĕрсене курăнмасть</string>
   <string name="bluetooth_notif_message">%1$spa мăшăрлас тесен тив.</string>
@@ -631,7 +631,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="data_usage_menu_show_wifi">Show Wi-Fi usage</string>
   <string name="data_usage_menu_split_4g">Separate 4G usage</string>
   <string name="data_usage_metered_body">Select the Wi-Fi networks which are mobile hotspots. Apps can be restricted from using these networks when in the background. Apps may also warn before using these networks for large downloads.</string>
-  <string name="data_usage_metered_mobile">Мобиллĕ тетелсем</string>
+  <string name="data_usage_metered_mobile">Мобильлĕ тетелсем</string>
   <string name="data_usage_metered_title">Mobile hotspots</string>
   <string name="data_usage_metered_wifi">Wi-Fi тетелĕсем</string>
   <string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn Wi-Fi on.</string>
@@ -704,8 +704,8 @@ This setting affects all users on this phone."</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">Йĕкĕр тĕшĕ</string>
-  <string name="device_cpu4_info">Тăватă тĕшĕ</string>
+  <string name="device_cpu2_info">Йӗкӗр тӗшӗллӗ</string>
+  <string name="device_cpu4_info">Тӑватӑ тӗшӗллӗ</string>
   <string name="device_edit_title">Хатĕрĕн йатне улăштар</string>
   <string name="device_info_default">Паллă мар</string>
   <string name="device_info_label">Хатер пирки</string>
@@ -716,7 +716,7 @@ This setting affects all users on this phone."</string>
   <string name="device_miui_version">MIUI Version</string>
   <string name="device_name">Хатĕрĕн ячĕ</string>
   <string name="device_name_input_error">Failed to save device name, please try again</string>
-  <string name="device_name_input_hint">Хатĕрÿнĕн  кĕрт</string>
+  <string name="device_name_input_hint">Хатĕрÿнĕн ятне кĕрт</string>
   <string name="device_name_usage_point">Allow device to be discovered by other Bluetooth devices to allow file transfer and other functions.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD картти</string>
@@ -793,7 +793,7 @@ This setting affects all users on this phone."</string>
   <string name="dolby_bassboost_high">Вăйлă</string>
   <string name="dolby_bassboost_low">Йăваш</string>
   <string name="dolby_bassboost_normal">Чухлă</string>
-  <string name="dolby_bassboost_title">Басс：</string>
+  <string name="dolby_bassboost_title">Баса вӑйлатни：</string>
   <string name="dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="dolby_effects">Dolby еффекчĕсем</string>
   <string name="dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
@@ -1028,7 +1028,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Тăвăм:</string>
   <string name="intent_sender_data_label">Кун:</string>
-  <string name="intent_sender_resource_label">Çăлуç:</string>
+  <string name="intent_sender_resource_label">Çăлкуç:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
   <string name="intent_sender_startactivity_text">Start activity</string>
   <string name="internal_format">Erase Internal storage</string>
@@ -1041,7 +1041,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="internal_storage">System storage</string>
   <string name="invalid_location">"Install location isn't valid."</string>
   <string name="invalid_size_value">"Couldn't compute package size."</string>
-  <string name="ipaddr_label">IP тĕлĕ:</string>
+  <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s and %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -1296,10 +1296,10 @@ please follow the steps to complete installation"</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">Çук</string>
   <string name="no_application">Ним те çук</string>
-  <string name="no_applications">Пĕр хушăм та çук</string>
+  <string name="no_applications">Пĕр хушăм та çук.</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_media_button_receiver">Çук</string>
-  <string name="no_nearby_wifi">No available Wi-Fi network detected. Please re- or add the network manually</string>
+  <string name="no_nearby_wifi">No available Wi-Fi network detected. Please re-scan or add the network manually</string>
   <string name="no_running_services">Nothing running.</string>
   <string name="no_services">Not active</string>
   <string name="noise_suppression">Шăв-шава чарни</string>
@@ -1703,7 +1703,7 @@ This setting affects all users on this phone."</string>
   <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
   <string name="screensaver_settings_summary_either_short">Either</string>
   <string name="screensaver_settings_summary_off">Disabled</string>
-  <string name="screensaver_settings_summary_on">Screensaver will start when power cord is inserted during sleep </string>
+  <string name="screensaver_settings_summary_on">Screensaver will start when power cord is inserted during sleep mode</string>
   <string name="screensaver_settings_summary_sleep">While charging</string>
   <string name="screensaver_settings_title">Screen Candy</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
@@ -1848,7 +1848,7 @@ This setting affects all users on this phone."</string>
   <string name="sim_absent">SIM/RUIM çук</string>
   <string name="sim_bad_pin">Тĕрĕс мар PIN</string>
   <string name="sim_change_failed">"PINе улăштарма çук. 
- Тĕрĕс мар PIN пулас."</string>
+Тĕрĕс мар PIN пулас."</string>
   <string name="sim_change_failed_enable_sim_lock">"Unable to Change SIM PIN.
  Enable SIM Lock."</string>
   <string name="sim_change_pin">SIM PINĕ</string>
@@ -2145,7 +2145,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
   <string name="user_confirm_remove_self_title">Хăвна катертес-и?</string>
   <string name="user_confirm_remove_title">Усăçа катертес-и?</string>
-  <string name="user_delete_button">КатЕрт</string>
+  <string name="user_delete_button">Катерт</string>
   <string name="user_details_title">Edit details</string>
   <string name="user_dict_multiple_settings_title">Personal dictionaries</string>
   <string name="user_dict_settings_add_dialog_confirm">Аван</string>
@@ -2217,7 +2217,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="virus_scan_app_uninstall">Batch uninstall (% d)</string>
   <string name="virus_scan_app_waiting">Кĕтсе тăни...</string>
   <string name="virus_scanner_auto_update">Автоматла çĕнет</string>
-  <string name="virus_scanner_date_formater">кк УЙХ. çççç</string>
+  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virus database updated</string>
   <string name="virus_scanner_lib_update_failed">Virus database update failed</string>
   <string name="virus_scanner_lib_updating">Upgrading virus database...</string>
