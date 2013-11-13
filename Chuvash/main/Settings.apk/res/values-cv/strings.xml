@@ -896,7 +896,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="filter">Ала</string>
   <string name="filter_apps_all">Пур те</string>
-  <string name="filter_apps_cached">Cashed</string>
+  <string name="filter_apps_cached">Cached</string>
   <string name="filter_apps_onsdcard">USB storage</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
@@ -1572,7 +1572,7 @@ please follow the steps to complete installation"</string>
   <string name="quick_launch_title">Хăвăрт тапрату</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Йавăçнă</string>
-  <string name="radioInfo_data_connecting">ЙАвăçни</string>
+  <string name="radioInfo_data_connecting">Йавăçни</string>
   <string name="radioInfo_data_disconnected">Disconnected</string>
   <string name="radioInfo_data_suspended">Suspended</string>
   <string name="radioInfo_display_asu">asu</string>
