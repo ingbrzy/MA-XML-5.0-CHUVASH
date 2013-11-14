@@ -11,7 +11,8 @@
   <string name="accelerometer_title">Екрана автоматла çавăр</string>
   <string name="access_control_app_entry_multiple">%s тапрат</string>
   <string name="access_control_app_entry_single">Суйланă хушăма тапрат</string>
-  <string name="access_control_need_password">"%s has been protected"</string>
+  <string name="access_control_need_password">"%s has been protected
+"</string>
   <string name="access_control_need_to_unlock">Кĕме сăмах çырма тивĕç</string>
   <string name="access_control_no_back_footer">Тухас тесен [icon] çине пус</string>
   <string name="access_control_password_title">Кĕме сăмах пуррине пултар</string>
@@ -463,7 +464,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
   <string name="breathing_light_color_menu_title">Light colour</string>
   <string name="breathing_light_color_summary">LED color when receiving new notification</string>
-  <string name="breathing_light_color_title">"_Çуткуçĕн тĕсĕ"</string>
+  <string name="breathing_light_color_title">" Çуткуçĕн тĕсĕ"</string>
   <string name="breathing_light_freq_summary">Çĕнĕ систерÿ килнипе çуткуçне выльаттар</string>
   <string name="breathing_light_freq_title">Çуткуçĕн выльатни таташлăхĕ</string>
   <string name="brightness">Йалтрав</string>
@@ -918,7 +919,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
   <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
-  <string name="force_stop">Хистевлĕ чарăну_1</string>
+  <string name="force_stop">Хистевлĕ чарăну</string>
   <string name="force_stop_dlg_text">Хушăмне хистевлĕ чарсан вăл тем те хăтланма пултарать.</string>
   <string name="force_stop_dlg_title">Хистевлĕ чарас-и?</string>
   <string name="forget_wifi_message">Stops network from automatically connecting and may need to re-enter password to reconnect</string>
@@ -1622,7 +1623,7 @@ please follow the steps to complete installation"</string>
   <string name="radio_info_signal_location_label">Вырнăçу:</string>
   <string name="radio_info_signal_strength_label">Сигнал шайĕ:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
-  <string name="radio_info_smsc_refresh_label">Çĕнет_</string>
+  <string name="radio_info_smsc_refresh_label">Çĕнет</string>
   <string name="radio_info_smsc_update_label">Çĕнет</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
   <string name="read_only">" (Read-only)"</string>
@@ -2463,7 +2464,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_setup_back">Кайалла</string>
   <string name="wifi_setup_cancel">Пăрахăçла</string>
   <string name="wifi_setup_connect">Йавăç</string>
-  <string name="wifi_setup_description_connected">Тив_</string>
+  <string name="wifi_setup_description_connected">Тив</string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks\u0090"</string>
